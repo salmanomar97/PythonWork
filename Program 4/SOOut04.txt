@@ -1,0 +1,25 @@
+Vertices: (1.00,1.00)(6.00,1.00)(1.00,12.00)      Shortest Side is: 5.00
+Perimeter is: 28.08                               Area: 27.50
+Acute                                             Scalene
+Invalid Triangle, Duplicate Points or Collinear
+Vertices: (-4.00,0.00)(4.00,0.00)(0.00,6.93)      Shortest Side is: 8.00
+Perimeter is: 24.00                               Area: 27.71
+Acute                                             Isoceles
+Vertices: (-2.16,-3.37)(2.16,3.37)(-5.83,3.74)    Shortest Side is: 8.00
+Perimeter is: 24.00                               Area: 27.71
+Acute                                             Scalene
+Vertices: (3.54,5.46)(-4.54,5.56)(3.10,-2.10)     Shortest Side is: 7.57
+Perimeter is: 26.47                               Area: 30.56
+Acute                                             Scalene
+Invalid Triangle, Duplicate Points or Collinear
+Vertices: (4.00,0.00)(-6.00,0.00)(-1.00,-8.66)    Shortest Side is: 10.00
+Perimeter is: 30.00                               Area: 43.30
+Acute                                             Isoceles
+Invalid Triangle, Duplicate Points or Collinear
+Vertices: (0.00,0.00)(5.00,1.00)(10.00,0.00)      Shortest Side is: 5.10
+Perimeter is: 20.20                               Area: 5.00
+Acute                                             Isoceles
+Vertices: (0.00,0.00)(4.00,0.00)(0.00,3.00)       Shortest Side is: 3.00
+Perimeter is: 12.00                               Area: 6.00
+Acute                                             Scalene
+Invalid Triangle, Duplicate Points or Collinear

@@ -1,0 +1,13 @@
+COUNTY,CITY,2010 Census,2014 Estimate
+Aitkin,McGrath,80,77
+Anoka,St. Francis,7218,7359
+Becker,Audubon,519,513
+Becker,Callaway,234,235
+Becker,Detroit Lakes,8569,8961
+Blue Earth,Amboy,534,525
+Blue Earth,Eagle Lake,2422,2688
+Blue Earth,Good Thunder,583,580
+Cass,Hackensack,313,310
+Cass,Longville,156,156
+Cass,Walker,941,926
+Redwood,Revere,95,92

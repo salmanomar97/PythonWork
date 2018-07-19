@@ -1,0 +1,24 @@
+Franklin[[-21.161, -3.366], [2.161, 3.366], [-5.83, 3.743]]
+Perimeter:49.17     Sidelengths: 24.27,8.00,16.90
+Acute&Scalene       Area: 31.29
+
+Sally[[-4.0, 0.0], [4.0, 0.0], [0.0, 6.9282]]
+Perimeter:24.00     Sidelengths: 8.00,8.00,8.00
+Acute&Isoceles      Area: 27.71
+
+Jenny[[-2.161, -3.366], [2.161, 3.366], [-5.83, 3.743]]
+Perimeter:24.00     Sidelengths: 8.00,8.00,8.00
+Acute&Scalene       Area: 27.71
+
+Penny[[3.54, 5.46], [-4.54, 5.557], [3.1, -2.1]]
+Perimeter:26.47     Sidelengths: 8.08,10.82,7.57
+Acute&Scalene       Area: 30.56
+
+Invalid Triangle, Duplicate Points or Collinear
+Invalid Triangle, Duplicate Points or Collinear
+Justin[[0.0, 0.0], [5.0, 1.0], [10.0, 0.0]]
+Perimeter:20.20     Sidelengths: 5.10,5.10,10.00
+Acute&Isoceles      Area: 5.00
+
+Invalid Triangle, Duplicate Points or Collinear
+Invalid Triangle, Duplicate Points or Collinear
